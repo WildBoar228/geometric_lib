@@ -35,5 +35,8 @@ A footnote can also have multiple lines.
 `perimeter(a, b)` - calculate perimeter of a rectangle with sides a, b
 
 # Commit history
+* `a55b742` Add tests
+* `a6a4dd0` Add rectangle.py
+* `1ae920a` Edit docs
 * `d078c8d` Docs added
 * `8ba9aeb` Circle and square added
