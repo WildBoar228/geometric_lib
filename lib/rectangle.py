@@ -6,4 +6,4 @@ def area(a, b):
 
 def perimeter(a, b):
     '''Count rectangle perimeter: S = 2*(a+b)'''
-    return (a + b)
+    return 2 * (a + b)
